@@ -6,16 +6,19 @@
 - 💛 <a href="http://gcy.dothome.co.kr/">sdh-map</a>
 
 
-<center style="font-size:32px;">▪ STACK ▪</center>
+<div style="width:500px; height:80px; margin: 0 auto;">
+<center style="font-size:32px; text-align:center;">▪ STACK ▪</center>
+</div>
+
 <br />
 
+<div style="width:500px; height: 120px; margin: 0 auto;">
 <div style="display:flex; justify-content:center;">
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/Node.js-dagreen?style=flat-square&logo=node-dot-js&logoColor=white"/></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/SCSS-orange?style=flat-square&logo=sass&logoColor=white"/></span>
 </div>
-
 <div style="display:flex; justify-content:center;">
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=redux&logoColor=white"/></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/firebase-yellow?style=flat-square&logo=firebase&logoColor=white"/></span>
@@ -23,7 +26,8 @@
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white"/></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white"/></span>
 </div>
-
+</div>
+<br />
 
 
 
