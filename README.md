@@ -6,7 +6,7 @@
 - 💛 <a href="http://gcy.dothome.co.kr/">sdh-map</a>
 
 
-# ▪ STACK ▪
+# STACK
 
 <br />
 
