@@ -1,10 +1,6 @@
 # Frontend Developer
 
-서울 디지텍 고등학교에 재학중인 김민후입니다. 프론트엔드 개발자로 시작해 풀스택 개발자를 희망하고 있습니다.
-
-- 💙 <a href="https://github.com/minhoo03">github</a>
-- 💛 <a href="http://gcy.dothome.co.kr/">sdh-map</a>
-
+프론트엔드 개발자로 일하고 있는 김민후입니다.
 
 # STACK
 
@@ -22,7 +18,7 @@
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/firebase-yellow?style=flat-square&logo=firebase&logoColor=white"/></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white"/></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white"/></span>
+<!-- <span style="margin-right:4px"><img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white"/></span> -->
 </div>
 </div>
 <br />
