@@ -2,6 +2,10 @@
 
 프론트엔드 개발자로 일하고 있는 김민후입니다.
 
+✏️ [이력서](https://www.rallit.com/resume/template)
+
+<!--
+
 # STACK
 
 <br />
@@ -18,13 +22,14 @@
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/firebase-yellow?style=flat-square&logo=firebase&logoColor=white"/></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/></span>
 <span style="margin-right:4px"><img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white"/></span>
-<!-- <span style="margin-right:4px"><img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white"/></span> -->
+
+<span style="margin-right:4px"><img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white"/></span> 
 </div>
 </div>
 <br />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminhoo03&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhoo03&&show_icons=true&theme=default)
 
 
