@@ -2,7 +2,6 @@
 
 프론트엔드 개발자로 일하고 있는 김민후입니다.
 
-✏️ [이력서](https://www.rallit.com/resume/template)
 
 <!--
 
