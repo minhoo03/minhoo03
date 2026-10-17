@@ -1,49 +1,47 @@
-# Frontend Developer
+# Frontend Engineer
 
-프론트엔드 개발자로 일하고 있는 김민후입니다.
+### 김민후
 
+---
 
-<!--
+TADA와 글로싸인에서 다양한 웹 서비스의 기능 개발과 개선을 경험했습니다. 서비스의 요구사항을 이해하고, 사용자와 개발팀 모두에게 도움이 되는 방향을 고민합니다. 반복되는 문제를 구조적으로 해결하고, 팀이 더 효율적으로 개발할 수 있는 환경을 만드는 것을 중요하게 생각합니다.
 
-# STACK
+## 경력
 
-<br />
+### 주식회사 이지식스(easi6)
+TADA Web팀 · Frontend Engineer · 2025.07 ~ 재직 중
 
-<div style="width:500px; height: 120px; margin: 0 auto;">
-<div style="display:flex; justify-content:center;">
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/Node.js-dagreen?style=flat-square&logo=node-dot-js&logoColor=white"/></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/SCSS-orange?style=flat-square&logo=sass&logoColor=white"/></span>
-</div>
-<div style="display:flex; justify-content:center;">
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=redux&logoColor=white"/></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/firebase-yellow?style=flat-square&logo=firebase&logoColor=white"/></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/></span>
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white"/></span>
+글로벌 Ride-Hailing 서비스 TADA의 Admin Tool, WebView, Corporate Web, Homepage 개발과 개선을 담당하고 있습니다.
 
-<span style="margin-right:4px"><img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white"/></span> 
-</div>
-</div>
-<br />
+- Homepage에 종속되어 있던 WebView를 독립 애플리케이션으로 분리하고, 싱가포르·미국·동남아 등 여러 지역의 상품·요금·배차 정책을 운영 시스템에 반영
+- 30개 이상의 레거시 Admin 메뉴를 공통 Template과 개선된 UX로 점진적 전환
+- Playwright 기반 컴포넌트 스크린샷 테스트를 여러 React 프로젝트에 도입해 PR 단계에서 UI 회귀를 사전 탐지
+- Codex와 Jira MCP·Slack·GitHub 연동으로 티켓 마감일 알림과 PR 리뷰 코멘트 대응을 자동화
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminhoo03&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 비즈니스온 커뮤니케이션
+글로싸인 B2B팀 · Frontend Engineer · 2022.01 ~ 2025.06 (3년 6개월)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhoo03&&show_icons=true&theme=default)
--->
+전자계약 솔루션 글로싸인과 차세대 온프레미스 패키지를 메인 개발자로서 기획부터 QA까지 담당했습니다.
 
+- 계약 생성, 서명 관리, 내부결재, 권한 관리 등 핵심 전자계약 기능 개발
+- Storybook 기반 디자인 시스템을 구축해 UI 일관성과 재사용성 확보
+- 코드 리뷰 의무화, 디자인 시스템 문서화 등 협업 환경 개선 활동 주도
 
-<!--
-**minhoo03/minhoo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 진행 중인 프로젝트
 
-Here are some ideas to get you started:
+- [FixLog-front](https://github.com/minhoo03/FixLog-front) — 변경하기 쉬운 코드를 목표로 설계한 문서·AI Job 관리 서비스
+- [fixlog-lite](https://github.com/minhoo03/fixlog-lite) — 개발 중 문제와 해결 과정을 Codex와 함께 기록하는 개인 Markdown 위키
+- [myDestiny-front](https://github.com/minhoo03/myDestiny-front) — 친구가 대신 소개하고 연결해주는 새로운 만남 서비스
+- [NextJob-front](https://github.com/minhoo03/NextJob-front) — 채용 정보 탐색 서비스
+- [llm-wiki-template](https://github.com/minhoo03/llm-wiki-template) — 사람과 AI가 함께 쓰고 검색하는 Markdown 지식 저장소 템플릿
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 기술 스택
+
+React, TypeScript, JavaScript, React Query, Zustand, Redux, Tailwind CSS, Storybook, Playwright, Git
+
+## 최근 블로그 글
+
+- [사용자는 정말로 화면이 바뀌는 걸 싫어할까?](https://velog.io/@minhoo0333/%EC%82%AC%EC%9A%A9%EC%9E%90%EB%8A%94-%EC%A0%95%EB%A7%90%EB%A1%9C-%ED%99%94%EB%A9%B4%EC%9D%B4-%EB%B0%94%EB%80%8C%EB%8A%94-%EA%B1%B8-%EC%8B%AB%EC%96%B4%ED%95%A0%EA%B9%8C-k32cpqof) — 2026.06.29
+- [TanStack Query - Deep Dive](https://velog.io/@minhoo0333/TanStack-Query-Deep-Dive) — 2026.03.13
+- [프론트엔드 웹 서비스, 왜 Kubernetes에서 나가자는 이야기가 나왔을까](https://velog.io/@minhoo0333/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%99%9C-Kubernetes%EC%97%90%EC%84%9C-%EB%82%98%EA%B0%80%EC%9E%90%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0%EA%B0%80-%EB%82%98%EC%99%94%EC%9D%84%EA%B9%8C) — 2026.01.06
+
