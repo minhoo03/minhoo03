@@ -43,5 +43,5 @@ React, TypeScript, JavaScript, React Query, Zustand, Redux, Tailwind CSS, Storyb
 
 - [사용자는 정말로 화면이 바뀌는 걸 싫어할까?](https://velog.io/@minhoo0333/%EC%82%AC%EC%9A%A9%EC%9E%90%EB%8A%94-%EC%A0%95%EB%A7%90%EB%A1%9C-%ED%99%94%EB%A9%B4%EC%9D%B4-%EB%B0%94%EB%80%8C%EB%8A%94-%EA%B1%B8-%EC%8B%AB%EC%96%B4%ED%95%A0%EA%B9%8C-k32cpqof) — 2026.06.29
 - [TanStack Query - Deep Dive](https://velog.io/@minhoo0333/TanStack-Query-Deep-Dive) — 2026.03.13
-- [프론트엔드 웹 서비스, 왜 Kubernetes에서 나가자는 이야기가 나왔을까](https://velog.io/@minhoo0333/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%99%9C-Kubernetes%EC%97%90%EC%84%9C-%EB%82%98%EA%B0%80%EC%9E%90%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0%EA%B0%80-%EB%82%98%EC%99%94%EC%9D%84%EA%B9%8C) — 2026.01.06
+- [pnpm은 어떻게 동작하는가?](https://velog.io/@minhoo0333/pnpm) — 2025.09.01
 
